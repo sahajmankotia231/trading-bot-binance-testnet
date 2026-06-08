@@ -29,7 +29,7 @@ trading_bot/
 ├── cli.py
 ├── requirements.txt
 ├── README.md
-└── .env
+└── .env (local only, not committed)
 ```
 
 ## Installation
